@@ -1,27 +1,17 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1265\cocoasubrtf200
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red201\green113\blue0;}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+Gjuha shqipe për ModernBB
 
-\f0\fs24 \cf0 Gjuha shqipe p\'ebr ModernBB\
-\
-Projekti origjinal: http://github.com/modernbb\
-\
-Kontribuesit jan\'eb: Arianit KUKAJ - 
-\b \cf2 akukaj@msn.com
-\b0 \cf0 \
-\
-Fat\'ebkeqsisht nuk ka kontribues t\'eb tjer\'eb\'85.\
-\
+Projekti origjinal: http://github.com/modernbb
+
+Kontribuesit janë: Arianit KUKAJ - akukaj@msn.com
+
+Fatkeqsisht nuk ka kontribues të tjer !!!
+
 Ende nuk \'ebsht\'eb p\'ebrfunduar totalisht por mund t\'eb p\'ebrdoret !!!\
-\
 
-\i // English
-\i0 \
-\
+// English
+
 Albanian language pack for ModernBB\
-\
+
 The project: http://github.com/modernbb\
-\
+
 Still not finished.}
