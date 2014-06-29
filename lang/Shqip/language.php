@@ -580,40 +580,40 @@ $lang = array(
 'Banned username'			=>	'Emri/Nofka që ju zgjodhët është i palejushem në forum. Ju lutem zgjidhni një emër tjetër.',
 'Pass too short'			=>	'Fjalëkalimi duhet të jetë të paktën 6 karaktere i gjatë. Ju lutem zgjidhni nji tjetër (më të gjatë).',
 'Pass not match'			=>	'Fjalëkalimet nuk përputhen.',
-'Banned email'				=>	'The email address you entered is banned in this forum. Please choose another email address.',
-'Dupe email'				=>	'Someone else is already registered with that email address. Please choose another email address.',
-'Sig too long'				=>	'Signatures cannot be longer than %1$s characters. Please reduce your signature by %2$s characters.',
-'Sig too many lines'		=>	'Signatures cannot have more than %s lines.',
-'Bad ICQ'					=>	'You entered an invalid ICQ UIN. Please go back and correct.',
+'Banned email'				=>	'Email-in qe e keni shtypur nuk lejohet në forum. Ju lutem zgjidhni një email tjetër.',
+'Dupe email'				=>	'Dikush tjetër tani më është i regjistruar me këtë email. Zgjidhni nji email tjetër.',
+'Sig too long'				=>	'Firma s\'mund të jetë më e gjatë se %1$ karaktere. Ju lutem redukoni firmen tuaj me %2$ karaktere.',
+'Sig too many lines'		=>	'Firma s\'mund të këtë me shumë se %s rreshta.',
+'Bad ICQ'					=>	'Ti ke shtypur një ICQ UIN jovalidë. Ju lutem kthehuni mrapa dhe korigjoni.',
 
 //
 // Language for profile.php
 //
 
-'Section personality'			=>	'Personality',
-'Section admin'					=>	'Administration',
+'Section personality'			=>	'Personaliteti',
+'Section admin'					=>	'Administrimi',
 
 //
 // Miscellaneous
 //
 
-'Personal details legend'		=>	'Modify your personal and contact details',
-'Settings legend'				=>	'Enter your settings',
-'User tools'					=>	'User tools',
-'Unknown'          				=>  'Unknown',
+'Personal details legend'		=>	'Ndrysho detajet e kontaktit personale',
+'Settings legend'				=>	'Shtyp cilsimet e tua',
+'User tools'					=>	'Veglat e përdoruesit',
+'Unknown'          				=>  'Të panjohura',
 
 //
 // Password stuff
 //
 
-'Pass key bad'					=>	'The specified password activation key was incorrect or has expired. Please re-request a new password. If that fails, contact the forum administrator at',
-'Pass updated'					=>	'Your password has been updated. You can now login with your new password.',
-'Wrong pass'					=>	'Wrong old password.',
-'Change pass'					=>	'Change password',
-'Old pass'						=>	'Old password',
-'New pass'						=>	'New password',
-'Confirm new pass'				=>	'Confirm new password',
-'Pass info'						=>	'Passwords must be at least 6 characters long and are case sensitive',
+'Pass key bad'					=>	'Fjalëkalimi i dhënë s\'është i sakt ose ka skaduar. Ju lutem ri-kërkoni për një fjalëkalim të ri. Nese edhe kjo deshton, kontakto Administruesin e forumit',
+'Pass updated'					=>	'Fjalëkalimi juaj u përditësua. Ju tani mund të llogariteni me fjalëkalimin e ri.',
+'Wrong pass'					=>	'Gabim fjalëkalimi vjetër.',
+'Change pass'					=>	'Ndrysho fjalëkalimin',
+'Old pass'						=>	'Fjalëkalimi i vjetër',
+'New pass'						=>	'Fjalëkalimi i ri',
+'Confirm new pass'				=>	'Konfirmo fjalëkalimin e ri',
+'Pass info'						=>	'Fjalëkalimi duhet të jetë i gjatë ose të përmbaj 6 karaktere',
 
 //
 // Email stuff
