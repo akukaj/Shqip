@@ -63,10 +63,11 @@ $lang = array(
 'New posts info'					=>	'Shko tek postimi i parë në temë.', // The popup text for new posts links
 'Username'							=>	'Përdoruesi',
 'Password'							=>	'Fjalëkalimi',
-'Send email'						=>	'Dërgo email',
+'Send email'						=>	'Dërgo postë',
 'Moderated by'						=>	'I moderuar nga',
 'Registered table'					=>	'Të regjistruarit',
 'Subject'							=>	'Subjekti',
+'Start typing'                      =>  'Fillo të shtypësh...',
 'Message'							=>	'Mesazhi',
 'Topic'								=>	'Tema',
 'Forum'								=>	'Forum',
@@ -619,165 +620,165 @@ $lang = array(
 // Email stuff
 //
 
-'Email key bad'					=>	'The specified email activation key was incorrect or has expired. Please re-request change of email address. If that fails, contact the forum administrator at',
-'Email updated'					=>	'Your email address has been updated.',
-'Activate email sent'			=>	'An email has been sent to the specified address with instructions on how to activate the new email address. If it doesn\'t arrive you can contact the forum administrator at',
-'Email instructions'			=>	'An email will be sent to your new address with an activation link. You must click the link in the email you receive to activate the new address.',
-'Change email'					=>	'Change email address',
-'New email'						=>	'New email',
+'Email key bad'					=>	'Email adresen që keni shtypur s\'është e sakt ose ka skaduar. Ju lutem ribëni hapin per të ndryshuar email-in prap. Nese edhe kjo deshton, kontakto administratorin tek',
+'Email updated'					=>	'Email adresa juaj u përditësua.',
+'Activate email sent'			=>	'Një letër është dërguar ne email-in tuaj me instrukcione se si ta aktivizoni email-in e ri. Nese ajo letër nuk arrin ju mund ta kontaktoni administratorin e forumit',
+'Email instructions'			=>	'Një letër me lidhjen/linkun për aktivizim iu është dërguar në email-in tuaj. Ju duhet të klikoni në lidhjen për të marrë letëren për aktivizimin e email-it të ri.',
+'Change email'					=>	'Ndrysho email adresën',
+'New email'						=>	'Email të ri',
 
 //
 // Avatar upload stuff
 //
 
-'Avatars disabled'				=>	'The administrator has disabled avatar support.',
-'Too large ini'					=>	'The selected file was too large to upload. The server didn\'t allow the upload.',
-'Partial upload'				=>	'The selected file was only partially uploaded. Please try again.',
-'No tmp directory'				=>	'PHP was unable to save the uploaded file to a temporary location.',
-'No file'						=>	'You did not select a file for upload.',
-'Bad type'						=>	'The file you tried to upload is not of an allowed type. Allowed types are gif, jpeg and png.',
-'Too wide or high'				=>	'The file you tried to upload is wider and/or higher than the maximum allowed',
-'Too large'						=>	'The file you tried to upload is larger than the maximum allowed',
+'Avatars disabled'				=>	'Administratori e ka çaktivizuar mbështetjën e avatarit.',
+'Too large ini'					=>	'Skeda e përzgjedhur është shumë e madhe për tu ngarkuar. Dhe serveri nuk e lejoj të ngarkohet.',
+'Partial upload'				=>	'Skeda e përzgjedhur është ngarkuar vetëm pjesërisht. Ju lutem provojeni përseri.',
+'No tmp directory'				=>	'PHP e kishte të pa mundur për ta ruajtur skeden e ngarkuar në një lokacion të përkohëshëm.',
+'No file'						=>	'Ju nuk zgjodhet ndonjê sked për ta ngarkuar.',
+'Bad type'						=>	'Skeda që dëshironi ta ngarkoni nuk është e tipit që lejohet. Tipet që lejohen/përkrahen janë gif, jpeg and png.',
+'Too wide or high'				=>	'Skeden që ju dëshironi ta ngarkoni është mbi maksimumin e hapsirës që lejohet ose ka diçka të quditshme ketu',
+'Too large'						=>	'Skeda qe ju dëshironi ta ngarkoni është më e madhe se sa që është e lejushme',
 'pixels'						=>	'pixels',
 'bytes'							=>	'bytes',
-'Move failed'					=>	'The server was unable to save the uploaded file. Please contact the forum administrator at',
-'Unknown failure'				=>	'An unknown error occurred. Please try again.',
-'Avatar desc'					=>	'An avatar is a small image that will be displayed under your username in your posts. It must not be any bigger than',
-'Upload avatar'					=>	'Upload avatar',
-'Delete avatar'					=>	'Delete avatar', // only for admins
-'File'							=>	'File',
-'Upload'						=>	'Upload', // submit button
+'Move failed'					=>	'Serveri nuk ishte në gjendje të ngarkoj sekden. Ju lutem kontaktoni administratorin tek',
+'Unknown failure'				=>	'Një gabim i panjohur. Provojeni përseri.',
+'Avatar desc'					=>	'Nji avatar është një fotografi e vockel që do të shfaqet ndër Emrin/Nofken tuaj në postime. Nuk duhet të jetë më e madhe se',
+'Upload avatar'					=>	'Ngarko avatarin',
+'Delete avatar'					=>	'Shlyej avatarin', // only for admins
+'File'							=>	'Skeda',
+'Upload'						=>	'Ngarko', // submit button
 
 //
 // Form validation stuff
 //
 
-'Forbidden title'				=>	'The title you entered contains a forbidden word. You must choose a different title.',
+'Forbidden title'				=>	'Titullin që ju keni shtypur konsiston me nji fjali të humbur. Ju duhet të zgjidhni një titull tjetër.',
 
 //
 // Profile display stuff
 //
 
 'Email info'					=>	'Email: %s',
-'Last visit info'				=>	'Last visit',
-'Show posts'					=>	'Show posts',
-'Show topics'					=>	'Show topics',
-'Show subscriptions'			=>	'Show subscriptions',
-'Contact'						=>	'Contact',
-'Realname'						=>	'Real name',
-'Location'						=>	'Location',
-'Website'						=>	'Website',
-'Invalid website URL'			=>	'The website URL you entered is invalid.',
+'Last visit info'				=>	'Vizita e fundit',
+'Show posts'					=>	'Shfaq postimet',
+'Show topics'					=>	'Shfaq temat',
+'Show subscriptions'			=>	'Shfaq abonimet',
+'Contact'						=>	'Kontakto',
+'Realname'						=>	'Emri i vërtet',
+'Location'						=>	'Vendndodhja',
+'Website'						=>	'Uebfaqja',
+'Invalid website URL'			=>	'URL e uebfaqës është jo valide.',
 'Jabber'						=>	'Jabber',
 'ICQ'							=>	'ICQ',
-'MSN'							=>	'Microsoft Account',
+'MSN'							=>	'Llogaria e Microsoft',
 'AOL'							=>	'AOL IM',
 'Yahoo'							=>	'Yahoo! Messenger',
 'Avatar'						=>	'Avatar',
-'Sig max size'					=>	'Max length: %s characters / Max lines: %s',
-'Avatar legend'					=>	'Set your avatar display options',
-'Avatar info'					=>	'An avatar is a small image that will be displayed with all your posts. You can upload an avatar by clicking the link below.',
-'Change avatar'					=>	'Change avatar',
-'Signature legend'				=>	'Compose your signature',
-'Signature info'				=>	'A signature is a small piece of text that is attached to your posts. In it, you can enter just about anything you like.',
-'Sig preview'					=>	'Current signature preview:',
-'No sig'						=>	'No signature currently stored in profile.',
-'Signature quote/code/list/h'	=>	'The quote, code, list, and heading BBCodes are not allowed in signatures.',
-'Posts per page'				=>	'Posts',
-'Leave blank'					=>	'Leave blank to use default',
-'Notify full'					=>	'Include a plain text version of new posts in subscription notification emails.',
-'Auto notify full'				=>	'Automatically subscribe to every topic you post in.',
-'Show smilies'					=>	'Show smilies as graphic icons.',
-'Show images'					=>	'Show images in posts.',
-'Show images sigs'				=>	'Show images in user signatures.',
-'Show avatars'					=>	'Show user avatars in posts.',
-'Show sigs'						=>	'Show user signatures.',
-'Style'							=>	'Style',
-'Backstage Accent'				=>	'Backstage Accent',
-'Admin note'					=>	'Admin note',
-'Post display'					=>	'Post display',
+'Sig max size'					=>	'Mak i gjatësis: %s karaktereve / Mak i rreshtave: %s',
+'Avatar legend'					=>	'Vendos cilsimet për shfaqjen e avatarit',
+'Avatar info'					=>	'Nji avatar është një imazh i vockel qe do të shfaqet në të gjitha postimet tua. Ti mund ta ngarkosh një të till duke klikuar lidhjen poshtë.',
+'Change avatar'					=>	'Ndrysho avatarin',
+'Signature legend'				=>	'Harto firmen tuaj',
+'Signature info'				=>	'Firma është një pjesëz e vockel e përfshirë ne postimet tuaja. Në të, mund të vendosesh çfardo që të pelqen.',
+'Sig preview'					=>	'Firma aktuale pamja:',
+'No sig'						=>	'S\'keni ndonje firm të regjistruar në profilin tuaj momentalisht.',
+'Signature quote/code/list/h'	=>	'Citimi, Kodi, listimi, dhe kryetitull i BBCodes nuk janë të lejueshme në firmë.',
+'Posts per page'				=>	'Postimet',
+'Leave blank'					=>	'Lere bosh përdor të përzgjedhuren',
+'Notify full'					=>	'Përfshij një plan tekst me një verzion të ri në abonimin për njoftimin me email.',
+'Auto notify full'				=>	'Abonohuni automatikisht në çdo postim që ju postoni.',
+'Show smilies'					=>	'Shfaq smiles si grafik ikonash.',
+'Show images'					=>	'Shfaq imazhe në postim.',
+'Show images sigs'				=>	'Shfaq imazhe në firmen e përdoruesve.',
+'Show avatars'					=>	'Shfaq avatarin e përdoruesve në postime.',
+'Show sigs'						=>	'Shfaq firmen e përdoruesve.',
+'Style'							=>	'Stili',
+'Backstage Accent'				=>	'Shenja e prapaskenës',
+'Admin note'					=>	'Shenim nga Admini',
+'Post display'					=>	'Shfaqja e postimit',
 
 //
 // Administration stuff
 //
 
-'Group membership legend'		=>	'Choose user group',
-'Save'							=>	'Save',
-'Set mods legend'				=>	'Set moderator access',
-'Moderator in info'				=>	'Choose which forums this user should be allowed to moderate. Note: This only applies to moderators. Administrators always have full permissions in all forums.',
-'Update forums'					=>	'Update forums',
-'Delete ban legend'				=>	'Delete or ban user',
-'Delete user'					=>	'Delete user',
-'Ban user'						=>	'Ban user',
-'Confirm delete user'			=>	'Confirm delete user',
-'Confirmation info'				=>	'Please confirm that you want to delete the user', // the username will be appended to this string
-'Delete warning'				=>	'Warning! Deleted users and/or posts cannot be restored. If you choose not to delete the posts made by this user, the posts can only be deleted manually at a later time.',
-'Delete all posts'				=>	'Delete any posts and topics this user has made',
-'No delete admin message'		=>	'Administrators cannot be deleted. In order to delete this user, you must first move him/her to a different user group.',
+'Group membership legend'		=>	'Zgjidh grupin për përdorues',
+'Save'							=>	'Ruaje',
+'Set mods legend'				=>	'Vendos qasje për moderator',
+'Moderator in info'				=>	'Zgjidh cilat forume i lejohet të moderoj. Shenim: Kjo aplikohet vetëm për moderatoret. Administratorët kan gjithmon të gjitha mundesit në forum.',
+'Update forums'					=>	'Fresko forumet',
+'Delete ban legend'				=>	'Shlyej ose përjashto përdoruesin',
+'Delete user'					=>	'Shlyeje përdoruesin',
+'Ban user'						=>	'Përjashto përdoruesin',
+'Confirm delete user'			=>	'Konfirmo shlyerjen e përdoruesit',
+'Confirmation info'				=>	'Ju lutem konfirmo që deshironi ta shlyeni përdoruesin', // the username will be appended to this string
+'Delete warning'				=>	'Lajmërim! Shlyejerja përdoruesit ose postimit nuk mund të zhbëhet më. Nese zgjidhni që të mos shlyhen postimet e keti përdoruesit, postimet mund të shlyhen manualisht më vonë.',
+'Delete all posts'				=>	'Shlyej çfardo postimi apo teme të bërë nga ky përdorues',
+'No delete admin message'		=>	'Administratorët s\'mund të shlyhet. Në menyr që të shlyhet ky përdorues, ju së pari duhet ta levizni së pari atë në një grup tjetër.',
 
 //
 // Language for register.php
 //
 
-'No new regs'				=>	'This forum is not accepting new registrations.',
-'Forum rules'				=>	'Forum rules',
-'Rules legend'				=>	'You must agree to the following in order to register',
-'Registration flood'		=>	'A new user was registered with the same IP address as you within the last hour. To prevent registration flooding, at least an hour has to pass between registrations from the same IP. Sorry for the inconvenience.',
-'Agree'						=>	'Agree',
-'Cancel'					=>	'Cancel',
-'Register legend'			=>	'Enter the requested data',
+'No new regs'				=>	'Fourmi nuk pranon regjistrime të reja për momentin.',
+'Forum rules'				=>	'Rregullorja e forumit',
+'Rules legend'				=>	'Ti duhet ti pranosh këto rregulla para se të regjistrohesh',
+'Registration flood'		=>	'Nji përdorues i ri është regjistruar nga e njetja IP mrena një ore. Për të parandaluar regjistrimet e një pas njëshme, së paku duhet të kaloj një orë nga regjistrimi në regjistrim nga e njetja IP. Na falni për shqetesimin.',
+'Agree'						=>	'Pranoj',
+'Cancel'					=>	'Anulo',
+'Register legend'			=>	'Ploteso të dhënat e kërkuara',
 
 //
 // Form validation stuff (some of these are also used in post.php)
 //
 
-'Registration errors'		=>	'Registration errors',
-'Username censor'			=>	'The username you entered contains one or more censored words. Please choose a different username.',
-'Username dupe 1'			=>	'Someone is already registered with the username',
-'Username dupe 2'			=>	'The username you entered is too similar. The username must differ from that by at least one alphanumerical character (a-z or 0-9). Please choose a different username.',
-'Email not match'			=>	'Email addresses do not match.',
+'Registration errors'		=>	'Gabim në regjistrim',
+'Username censor'			=>	'Emrin/Nofken që ju keni zgjedhur përmban fjalë që është në listen e cenzures. Ju lutem zgjidhni një Emër/Nofkë tjetër.',
+'Username dupe 1'			=>	'Dikush tjetër është tanime i regjistruar me këtë Emër/Nofkë',
+'Username dupe 2'			=>	'Emëri/Nofka që keni zgjedhur është shumë homogjen. Emëri/Nofka duhët të jetë ose përmbaj diferenc të numërave ose karaktereve (a-z ose 0-9). Ju lutem zgjedhni një psoudenim tjetër.',
+'Email not match'			=>	'Email adresa nuk konsiston.',
 
 //
 // Registration email stuff
 //
 
-'Reg email'					=>	'Thank you for registering. Your password has been sent to the specified address. If it doesn\'t arrive you can contact the forum administrator at',
+'Reg email'					=>	'Falēmenderit për regjistrimin. Fjalëkalimi iu është dërguar në adresen e specifikuar. Nese letra nuk arrinë kontaktoni administratorin e forumit tek',
 
 //
 // Register info
 //
 
-'Username legend'			=>	'Enter a username between 2 and 25 characters long',
-'Email help info'			=>	'Your password will be sent to this address, make sure it\'s valid',
-'If human'					=>	'If you are human please leave this field blank!',
-'Spam catch'				=>	'Unfortunately it looks like your request is spam. If you feel this is a mistake, please direct any inquiries to the forum administrator at',
+'Username legend'			=>	'Përzgjidh Psoudenimin në mes 2 apo 25 karaktereve të gjatë',
+'Email help info'			=>	'Fjalëkalimi juaj do të dërgohet në email adresen tuaj, sigurohuni që është valide',
+'If human'					=>	'Nese ju jeni human ju lutem lerëni këtë fush bosh!',
+'Spam catch'				=>	'Fatëkeqsisht duket se kërkesa juaj është spam-. Nese mendoni së është gabim, Ju lutem drejtoni shqetesimet tua tek administratori tek',
 
 //
 // Language for search.php
 //
 
-'User search'						=>	'User search',
-'No search permission'				=>	'You do not have permission to use the search feature.',
-'Search flood'						=>  'At least %s seconds have to pass between searches. Please wait %s seconds and try searching again.',
-'Search criteria legend'			=>	'Enter your search criteria',
-'Search info'						=>	'To search by keyword, enter a term or terms to search for. Separate terms with spaces. Use AND, OR and NOT to refine your search. To search by author enter the username of the author whose posts you wish to search for. Use wildcard character * for partial matches.',
-'Keyword search'					=>	'Keyword search',
-'Author search'						=>	'Author search',
-'All forums'						=>	'All forums',
-'Search in'							=>	'Search in',
-'Message and subject'				=>	'Message text and topic subject',
-'Message only'						=>	'Message text only',
-'Topic only'						=>	'Topic subject only',
-'Sort by'							=>	'Sort by',
-'Sort order'						=>	'Sort order',
-'Search results info'				=>	'You can choose how you wish to sort and show your results.',
-'Sort by post time'					=>	'Post time',
-'Sort by author'					=>	'Author',
-'Ascending'							=>	'Ascending',
-'Descending'						=>	'Descending',
-'Show as'							=>	'Show as',
-'Show as posts'						=>	'Posts',
-'Advanced search'					=>	'Advanced search',
+'User search'						=>	'Kërkim i përdoruesve',
+'No search permission'				=>	'Ju nuk keni lejueshmeri të kërkoni këtë voçori.',
+'Search flood'						=>  'Së paku prisni %s sekonda nga kërkimi në kërkim. Ju lutem prisni %s sekonda dhe provo të kërkosh prap.',
+'Search criteria legend'			=>	'Shtyp kriteret që dëshironi të kërkoni',
+'Search info'						=>	'Për të kërkuar me fjalë kyqçe, shtyp një term për terminlogjinë. ndaj termet me hapsirë. përdor DHE, OSE dhe JO për ta rafinuar kërkimin tuaj. Për të kërkuar një material nga autori shtyp emrin e përdoruesit. përdor karaktere te tilla si * për ngjajshmëri të pjesëshme.',
+'Keyword search'					=>	'Kërko fjalë kyçe',
+'Author search'						=>	'Kërko autorë',
+'All forums'						=>	'Të gjitha forumet',
+'Search in'							=>	'Kërko në',
+'Message and subject'				=>	'Tekstin në mesazh dhe tema apo subjekt',
+'Message only'						=>	'Vetëm mesazhet në tekst',
+'Topic only'						=>	'Vetëm subjektet e temave',
+'Sort by'							=>	'Rendit nga',
+'Sort order'						=>	'Renditje e rregullt',
+'Search results info'				=>	'Ti mund të zgjedhësh se si renditen dhe si të shfaqen rezultatet.',
+'Sort by post time'					=>	'Koha e postimit',
+'Sort by author'					=>	'Autori',
+'Ascending'							=>	'Nga lart poshtë',
+'Descending'						=>	'Nga lart poshtë',
+'Show as'							=>	'Shfaq si',
+'Show as posts'						=>	'Postimet',
+'Advanced search'					=>	'Kërkim i avancuar',
 
 //
 // Results
@@ -834,36 +835,36 @@ $lang = array(
 // Language for userlist.php
 //
 
-'User search info'	=>	'Enter a username to search for and/or a user group to filter by. Use the wildcard character * for partial matches.',
-'User group'		=>	'User group',
-'No of posts'		=>	'Number of posts',
-'All users'			=>	'All users',
+'User search info'	=>	'Shtyp emërin e përdoruesit për të kerkuar një grup apo filtrosh ndonje në veçanti. Përdor karaktere si * për përputhje parciale.',
+'User group'		=>	'Grupi i përdoruesit',
+'No of posts'		=>	'Numëri i postimeve',
+'All users'			=>	'Të gjithë anëtarët',
 
 //
 // Language for viewforum.php
 //
 
-'Views'			=>	'Views',
-'Moved'			=>	'Moved',
-'Star'			=>	'Star',
-'Sticky'		=>	'Sticky',
-'Closed'		=>	'Closed',
-'Empty forum'	=>	'Forum is empty.',
+'Views'			=>	'Shikimet',
+'Moved'			=>	'Lëvizur',
+'Star'			=>	'Yll',
+'Sticky'		=>	'Ngjitëse',
+'Closed'		=>	'E Mbyllur',
+'Empty forum'	=>	'Forumi është bosh.',
 
 //
 // Language for Backstage
 // Language for backstage.php
 //
 
-'Update settings head'		=>	'Update settings',
-'Index update check'		=>	'Check for updates every time the Backstage index is visited, if disabled, you won\'t see update notifications.',
+'Update settings head'		=>	'Përditëso cilsimet',
+'Index update check'		=>	'Shiko për përditsime çdoherë që vizitohet Prapaskena, nese s\'është aktive, ti nuk mund të shohesh apo njoftohesh për përditsime.',
 
 //
 // Language for bans.php
 //
 
-'No user message'			=>	'No user by that username registered. If you want to add a ban not tied to a specific username just leave the username blank.',
-'No user ID message'		=>	'No user by that ID registered.',
+'No user message'			=>	'Asnjë përdorues me këtë emër/nofkë nuk eshte i regjistruar. Nese deshironi të vendosëni perjashtime nga ky emër lejen fushen të zbrazët.',
+'No user ID message'		=>	'Asnjë përdorues nuk eshte i regjistruar me këtë ID.',
 'User is admin message'		=>	'The user %s is an administrator and can\'t be banned. If you want to ban an administrator, you must first demote him/her.',
 'User is mod message'		=>	'The user %s is a moderator and can\'t be banned. If you want to ban a moderator, you must first demote him/her.',
 'Must enter message'		=>	'You must enter either a username, an IP address or an email address (at least).',
