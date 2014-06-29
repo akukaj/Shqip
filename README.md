@@ -12,6 +12,6 @@ Ende nuk \'ebsht\'eb p\'ebrfunduar totalisht por mund t\'eb p\'ebrdoret !!!\
 
 Albanian language pack for ModernBB\
 
-The project: http://github.com/modernbb\
+The project: http://github.com/modernbb
 
 Still not finished.}
